@@ -1,0 +1,1 @@
+Il s'agit tout simplement d'un jeu, du style Doodle Jump, au fur et a mesure que l'objet saute le déplacement d'écran sera plus rapide, avec des dalles de plus en plus difficile d'accès. Il y aura des niveau différents avec différentes fonctions
